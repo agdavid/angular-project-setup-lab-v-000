@@ -1,6 +1,6 @@
 //define controller called MainController with access to name object
 function MainController($scope) {
-  $scope.name = 'PUT YOUR NAME HERE!';
+  $scope.name = 'ANTONIO!';
 }
 
 //reference the module and controller
